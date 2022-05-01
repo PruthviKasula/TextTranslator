@@ -1,0 +1,7 @@
+{
+    "translator":{
+        "subscriptionKey": "<your-text-translation-key-here>",
+        "endpoint": "https://api.cognitive.microsofttranslator.com/",
+        "location": "eastus"
+    }
+}
